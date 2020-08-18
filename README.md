@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rick Chen
 
 <!--
 **rickchen1014tw/rickchen1014tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
