@@ -8,6 +8,7 @@ Hello, I am a Java software engineer. Although I don’t have much experience ye
 - ...
 
 ## :rocket: Goals for 2020 and 2021 
+I wanna participate in a large-scale project. Also, continue to study and become a more experienced as well as valuable programmer.
 <!--
 **rickchen1014tw/rickchen1014tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
