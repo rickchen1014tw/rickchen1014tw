@@ -2,7 +2,12 @@
 Hello, I am a Java software engineer. Although I don’t have much experience yet, I will continue to learn and grow!
 
 ## 🧠 That I know and use
+- Java
+- Spring, Spring Boot
+- MyBatis
+- ...
 
+## :rocket: Goals for 2020 and 2021 
 <!--
 **rickchen1014tw/rickchen1014tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
