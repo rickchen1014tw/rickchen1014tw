@@ -1,4 +1,7 @@
-### Rick Chen
+## :boy: Rick Chen
+Hello, I am a Java software engineer. Although I don’t have much experience yet, I will continue to learn and grow!
+
+## 🧠 That I know and use
 
 <!--
 **rickchen1014tw/rickchen1014tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
